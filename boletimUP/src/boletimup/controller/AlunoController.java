@@ -9,7 +9,7 @@ public class AlunoController {
     
     public void cadastrasAluno(String nome, String ra) {
         Aluno aluno = new Aluno(nome,ra);
-        alunoDao.adicionarAlunos(aluno);
+        alunoDao.adicionarAluno(aluno);
     }
     
     public List<Aluno> getAluno(){
