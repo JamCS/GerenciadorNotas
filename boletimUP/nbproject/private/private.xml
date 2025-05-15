@@ -4,8 +4,10 @@
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
             <file>file:/C:/Users/JamilsonCS/Documents/Pessoal/UNIFG/Matérias/Programação%20e%20Soluções%20Computacionais/Arquivos/CRUD/boletimUP/src/boletimup/controller/AlunoController.java</file>
-            <file>file:/C:/Users/JamilsonCS/Documents/Pessoal/UNIFG/Matérias/Programação%20e%20Soluções%20Computacionais/Arquivos/CRUD/boletimUP/src/boletimup/view/CustomBar.java</file>
-            <file>file:/C:/Users/JamilsonCS/Documents/Pessoal/UNIFG/Matérias/Programação%20e%20Soluções%20Computacionais/Arquivos/CRUD/boletimUP/src/boletimup/view/RegistroAlunosView.java</file>
+            <file>file:/C:/Users/JamilsonCS/Documents/Pessoal/UNIFG/Matérias/Programação%20e%20Soluções%20Computacionais/Arquivos/CRUD/boletimUP/src/boletimup/view/RegistroAlunoView.java</file>
+            <file>file:/C:/Users/JamilsonCS/Documents/Pessoal/UNIFG/Matérias/Programação%20e%20Soluções%20Computacionais/Arquivos/CRUD/boletimUP/src/boletimup/dao/AlunoDao.java</file>
+            <file>file:/C:/Users/JamilsonCS/Documents/Pessoal/UNIFG/Matérias/Programação%20e%20Soluções%20Computacionais/Arquivos/CRUD/boletimUP/src/boletimup/model/Aluno.java</file>
+            <file>file:/C:/Users/JamilsonCS/Documents/Pessoal/UNIFG/Matérias/Programação%20e%20Soluções%20Computacionais/Arquivos/CRUD/boletimUP/src/boletimup/BoletimUP.java</file>
         </group>
     </open-files>
 </project-private>

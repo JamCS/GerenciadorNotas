@@ -7,7 +7,7 @@ import  java.util.ArrayList;
 import  java.util.List;
 
 public class AlunoDao {
-    private List<Aluno> alunos = new ArrayList<>();
+    private List<Aluno>  alunos = new ArrayList<>();
     
     public void adicionarAluno(Aluno aluno){
         alunos.add(aluno);
